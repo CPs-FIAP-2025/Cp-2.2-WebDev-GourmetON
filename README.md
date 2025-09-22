@@ -4,7 +4,7 @@
 </div>
 
 
-[gurmeton.com](https://cps-fiap-2025.github.io/WebDev-cp5/)
+[gurmeton.com](https://cp-2-2-web-dev-gourmet-on.vercel.app/)
 
 
 
@@ -60,7 +60,7 @@ A aplicação foi desenvolvida com foco em responsividade total:
 ### Instalação
 ```bash
 # Clone o repositório
-git clone https://github.com/LucasToledoC/WebDev-cp5.git
+git clone https://github.com/CPs-FIAP-2025/Cp-2.2-WebDev-GourmetON
 
 # Entre no diretório
 cd WebDev-cp5
